@@ -1,9 +1,9 @@
-/*package com.mycompany.app;
+package com.mycompany.app;
 
 /**
  * Hello world!
  */
-//*public class App {
+public class App {
 
     private static final String MESSAGE = "Hello World!";
 
